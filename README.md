@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patanvazid405
-- 👀 I’m interested in full stack web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning java script and python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
